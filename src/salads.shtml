@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+    <title>Title</title>
+</head>
+<body>
+<!--#include file="header.html"-->
+<!--#include file="menu.html"-->
+<div class="salads_list">
+    <div> <img src="images/salads.jpg" >Салат1</div>
+    <div><img src="images/salads.jpg"  >Салат2</div>
+    <div><img src="images/salads.jpg"  >Салат3</div>
+    <div><img src="images/salads.jpg"  >Салат4</div>
+    <div><img src="images/salads.jpg"  >Салат5</div>
+</div>
+<!--#include file="footer.html"-->
+</body>
+</html>

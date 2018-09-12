@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+    <title>Меню:Суши</title>
+</head>
+<body>
+<!--#include file="header.html"-->
+<!--#include file="menu.html"-->
+<div class="sushi_list">
+    <div> <img src="images/sushi.jpg" >—уши1</div>
+    <div><img src="images/sushi.jpg"  >—уши2</div>
+    <div><img src="images/sushi.jpg"  >—уши3</div>
+    <div><img src="images/sushi.jpg"  >—уши4</div>
+    <div><img src="images/sushi.jpg"  >—уши5</div>
+</div>
+<!--#include file="footer.html"-->
+</body>
+</html>

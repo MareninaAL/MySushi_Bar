@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+    <title>Title</title>
+</head>
+<body>
+<!--#include file="header.html"-->
+<!--#include file="menu.html"-->
+<div class="sets_list">
+    <div> <img src="images/bg.jpeg" > Сет1 20шт</div>
+    <div><img src="images/bg.jpeg"  > Сет2 30 шт</div>
+    <div><img src="images/bg.jpeg"  > Сет3 40 шт</div>
+    <div><img src="images/bg.jpeg"  > Сет4 100шт</div>
+    <div><img src="images/bg.jpeg"  > Сет Mega 250шт</div>
+</div>
+<!--#include file="footer.html"-->
+</body>
+</html>

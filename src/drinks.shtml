@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+    <title>Суши-бар:Напитки</title>
+</head>
+<body>
+<!--#include file="header.html"-->
+<!--#include file="menu.html"-->
+<div class="drink_list">
+    <div> <img src="images/drinks.jpg" > Сон</div>
+    <div><img src="images/drinks.jpg"  >Рай</div>
+    <div><img src="images/drinks.jpg"  >растворимОЁ Кофе</div>
+    <div><img src="images/drinks.jpg"  >Лимон-HELL</div>
+    <div><img src="images/drinks.jpg"  >Морж</div>
+</div>
+<!--#include file="footer.html"-->
+</body>
+</html>

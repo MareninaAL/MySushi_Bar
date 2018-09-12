@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+    <title>Title</title>
+</head>
+<body>
+<!--#include file="header.html"-->
+<!--#include file="menu.html"-->
+<div class="rolls_list">
+
+    <div> <img src="images/rolls.jpg" > алифорни¤ 200р./8шт </div>
+    <div><img src="images/rolls.jpg"  >‘иладельфи¤ 300р./8шт</div>
+    <div><img src="images/rolls.jpg"  >¬улкан 250р./8шт</div>
+    <div><img src="images/rolls.jpg"  >јсахи 210р./8шт</div>
+    <div><img src="images/rolls.jpg"  >¬улкан2 200р./8шт</div>
+</div>
+<!--#include file="footer.html"-->
+</body>
+</html>
